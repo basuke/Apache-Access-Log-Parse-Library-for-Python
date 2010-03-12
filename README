@@ -1,5 +1,10 @@
 Python library for parse apache access logs.
 
+You can clone this repository as 'apache' and place anywhere you want.
+
+$ git clone git@github.com:basuke/Apache-Access-Log-Parse-Library-for-Python.git apache
+
+
 Written by basuke@kanshin.com
 Copyright 2010 Kanshin!, Inc.
 http://corp.kanshin.com/
